@@ -1,1 +1,3 @@
 阿斯顿噶啥撒大噶
+git pull --rebase origin master
+git push origin master
