@@ -2,3 +2,4 @@
 git remote add origin git@github.com:freedomisvtial/learngit.git
 git pull --rebase origin master
 git push origin master
+Create a new branch for the git!
